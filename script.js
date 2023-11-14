@@ -74,9 +74,7 @@ test1.style.color = "blue"
 test1.style.backgroundColor = "red"
 test1.style.margin = "50px"
 
-
-
-// These were covered in a nice, quick overview
+// The above were covered in a nice, quick overview
 // by Kyle from WebDevSimplified: 
 // https://youtu.be/y17RuWkWdn8?si=x5Do4mj4gXw8nW8m
 
